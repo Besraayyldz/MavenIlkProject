@@ -22,7 +22,7 @@ public class Day08_IkinciOrnek {
 
     @AfterClass
     public static void tearDown(){
-      //  driver.quit();
+        driver.quit();
     }
 
     @Before
